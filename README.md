@@ -11,8 +11,9 @@ Rancang Antarmuka Pengguna (UI) a. Desain antarmuka yang memungkinkan pengguna m
 Implementasikan Logika Program a. Tulis kode untuk menangani input pengguna dan memilih operasi berdasarkan tombol yang ditekan. b. Gunakan kondisi if-else atau switch-case untuk menentukan operasi matematika yang diinginkan dan lakukan perhitungan. c. Pastikan untuk menangani pembagian dengan nol dengan memberi peringatan atau pesan kesalahan.
 Validasi Input Pengguna a. Periksa apakah input yang diberikan oleh pengguna adalah angka yang valid. b. Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 Tampilkan Hasil a. Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox. b. Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
+
 <b>Berikut adalah gambaran kalkulatornya: ></b><br>
 ![kalkulator_web](https://github.com/user-attachments/assets/3587f384-327e-45ed-a5c8-c9b47de1ab15)
 
 <b>Foto Pembuat</b>
-![WhatsApp Image 2025-02-14 at 4 38 24 PM](https://github.com/user-attachments/assets/345470a9-18a9-4491-8394-41c9b00f1d7c)
+![WhatsApp Image 2025-02-14 at 4 46 36 PM](https://github.com/user-attachments/assets/21d24a6d-64bd-462e-8fc7-3071af0109dc)
